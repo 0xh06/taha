@@ -59,7 +59,7 @@ Ouvrez `index.html` dans un navigateur web moderne pour voir le site. Toutes les
 ## 📞 Contact
 
 - **Téléphone** : +212 777 079 210
-- **Email** : contact@luxhost.ma
+- **Email** : lonepsy889@gmail.com
 - **WhatsApp** : [Lien direct](https://wa.me/212777079210)
 
 ---
